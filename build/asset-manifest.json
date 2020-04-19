@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-first-react-app-2-Shuvajyoti2/static/css/main.0d16e165.chunk.css",
+    "main.js": "/my-first-react-app-2-Shuvajyoti2/static/js/main.da696660.chunk.js",
+    "main.js.map": "/my-first-react-app-2-Shuvajyoti2/static/js/main.da696660.chunk.js.map",
+    "runtime-main.js": "/my-first-react-app-2-Shuvajyoti2/static/js/runtime-main.5b9fa16a.js",
+    "runtime-main.js.map": "/my-first-react-app-2-Shuvajyoti2/static/js/runtime-main.5b9fa16a.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/my-first-react-app-2-Shuvajyoti2/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.df3de0a6.chunk.js": "/my-first-react-app-2-Shuvajyoti2/static/js/2.df3de0a6.chunk.js",
+    "static/js/2.df3de0a6.chunk.js.map": "/my-first-react-app-2-Shuvajyoti2/static/js/2.df3de0a6.chunk.js.map",
+    "index.html": "/my-first-react-app-2-Shuvajyoti2/index.html",
+    "precache-manifest.27fc63409478bb17e9dd9d433496891a.js": "/my-first-react-app-2-Shuvajyoti2/precache-manifest.27fc63409478bb17e9dd9d433496891a.js",
+    "service-worker.js": "/my-first-react-app-2-Shuvajyoti2/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/my-first-react-app-2-Shuvajyoti2/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.0d16e165.chunk.css.map": "/my-first-react-app-2-Shuvajyoti2/static/css/main.0d16e165.chunk.css.map",
+    "static/js/2.df3de0a6.chunk.js.LICENSE.txt": "/my-first-react-app-2-Shuvajyoti2/static/js/2.df3de0a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b9fa16a.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.df3de0a6.chunk.js",
+    "static/css/main.0d16e165.chunk.css",
+    "static/js/main.da696660.chunk.js"
+  ]
+}
